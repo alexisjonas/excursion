@@ -1,3 +1,9 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+
 h1 {
   font-family: Verdana;
   font-size: 50px;
@@ -6,7 +12,7 @@ h1 {
 }
 
 h3 {
-  color: aquamarine;
+  color: Aquamarine;
   font-size: 16px;
-  
+
 }
